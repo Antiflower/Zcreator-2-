@@ -1,0 +1,23 @@
+NOTE: this is just loaded into the program and displayed within the help tab.  Last updated 11/8/2005
+
+--------------------------------------------------------
+General Tab:
+The 'update' button below the list of guilds will update JUST the guild information, the quest point and free level boxes will update automatically as you change the value.  
+Basic info for each race is available - simply right-click on the race name, and select 'Info on Race'
+To get further information on any guild, simply right-click and select 'Info on Guild' where the appropriate guild name is filled in.
+
+
+Skills/Spells Tabs:
+The description information is pulled from the help_skills and help_spells files, so if no information comes up, than that information is missing from our files.  Also, if you run across a skill or spell where cost is, for 5, 10, 15... 100 percent is only 100exp, then we are missing the 'starting cost' for this skill or spell.  Please visit the website to find more information on how to determine this value.
+
+In addition to the 'set' and 'max' selected buttons, you can also use alt-s and alt-x respectively.  Alt-z will also 'zero' out the selected skill(s) or spell(s).  If you double-click on a skill/spell, if that row isn't maxed out it will max it out, otherwise it will set to zero.
+
+
+Miscellaneous Tab:
+For stat training, enter numbers in any or all of the boxes, then hit updated to set the values for all stats at once.  If you've entered an number larger than is valid, the program will automatically set at the max value available.
+For Wishes, simply check the boxes of the wishes you want to include.  If these wishes are 'visible' to the character stats (unlike casting haste, for example), your character will be updated accordingly.
+
+
+Data Updates:
+The 'Check For Updates to Data Files' does exactly that, but be forwarned that this will reset anything you have loaded, to reload all of the data files if any were updated!
+If you do end up updating any of the information used in the program, please do send it to me so that everyone can use this updated information.
